@@ -1,3 +1,6 @@
+# Ad-Clicks-and-Purchase-Intention
+Today, the problem of predicting users' reaction to advertisements has wide commercial uses and a lot of investment is made on it. In this project, we intend to use machine learning and deep neural networks to predict whether clicking on a product will ultimately lead to its purchase or not.
+
 # REPORT LINE
 https://docs.google.com/document/d/1RgmUBrBxjP7aQQb2mfOyKZ5kqAJR73RNUILXC4bfrH4/edit?usp=sharing
 
